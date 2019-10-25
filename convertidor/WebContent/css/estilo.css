@@ -1,0 +1,50 @@
+.container{
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 6%;
+}
+.navprin{
+	background: #7FC3FF;
+	background-color: #7FC3FF;
+}
+
+#barra-titulo{
+    color: #ffffff;
+ }
+ #myNavbar li>a{
+    color: #FFFFFF;
+    display: block;
+    padding: 15px;
+    background: #7FC3FF;
+}
+#myNavbar li>a:hover {
+		background: #7FC3FF;
+		color: #020202;
+	}
+#myNavbar .dropdown-menu li>a:hover{
+		background: #fff;
+		color: #ffffff;
+		background-color: #286090;
+	}
+#myNavbar li>ul>li>a{
+		background: #7FC3FF;
+	}
+.dropdown-menu h5{
+	text-align: center;
+	color: #286090;
+	font-weight: bold;
+}
+#detallesConete{
+	text-align: center;
+	color: #286090;
+	font-weight: bold;
+}
+.contenedor h5{
+	text-align: center;
+	color: #286090;
+	font-weight: bold;
+}
+.footer h4 {
+	text-align: center;
+}
